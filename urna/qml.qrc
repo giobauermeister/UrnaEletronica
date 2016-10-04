@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>sources/horizontal-line.png</file>
+        <file>sources/som-curto.wav</file>
+        <file>sources/som-longo.wav</file>
+        <file>sources/foto_blank.png</file>
+        <file>sources/foto_yuri2384.png</file>
+        <file>sources/foto_lucas2283.png</file>
+        <file>sources/foto_isabeli2282.png</file>
+        <file>sources/foto_lara2181.png</file>
+        <file>sources/foto_yago1585.png</file>
+        <file>sources/foto_lucas1584.png</file>
+        <file>sources/foto_rodrigo1483.png</file>
+        <file>sources/foto_rebeca1482.png</file>
+        <file>sources/foto_mariana1180.png</file>
+        <file>sources/foto_marcos23.png</file>
+        <file>sources/foto_guilherme22.png</file>
+        <file>sources/foto_laura21.png</file>
+        <file>sources/foto_mirela15.png</file>
+        <file>sources/foto_luiz14.png</file>
+        <file>sources/foto_lucas11.png</file>
+        <file>sources/foto_frederico1181.png</file>
+        <file>sources/foto_ana2180.png</file>
+        <file>sources/foto_evlyn2385.png</file>
+        <file>sources/info-icon.png</file>
+    </qresource>
+</RCC>
